@@ -1,0 +1,11 @@
+include <math.h>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b, c;
+cin >> a >> b >> c;
+cout << (a == b or a == c or b == c ? "True" : "False");
+    return 0;
+}
