@@ -1,6 +1,6 @@
 #include <iostream>
 #include"windows.h"
-
+//коментар
 using namespace std;
 
 int main()
